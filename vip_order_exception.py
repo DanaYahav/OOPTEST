@@ -1,0 +1,2 @@
+class VipOrderException(Exception):
+    pass
